@@ -1,0 +1,5 @@
+1. FERD https://fred.stlouisfed.org/series/IPG2211A2N         
+2. OPSD https://data.open-power-system-data.org/
+3. SMARD https://www.smard.de/home/wiki-article/446/2556
+4. UCI Household https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption#
+5. UPSLDC http://www.upsldc.org/real-time-data (collected by web scrapping)
