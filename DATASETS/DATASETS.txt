@@ -3,3 +3,8 @@
 3. SMARD https://www.smard.de/home/wiki-article/446/2556
 4. UCI Household https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption#
 5. UPSLDC http://www.upsldc.org/real-time-data (collected by web scrapping)
+
+
+OPSD and UCI Household are not included because of their size.
+They can be downloaded easily from the links provided. 
+While running the codes the dataset should be in same folder as the program file or edit the path in the code.
